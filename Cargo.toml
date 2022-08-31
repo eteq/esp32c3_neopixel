@@ -1,5 +1,5 @@
 [package]
-name = "testproj"
+name = "esp32c3_neopixel"
 version = "0.1.0"
 authors = ["Erik Tollerud <erik.tollerud@gmail.com>"]
 edition = "2021"
